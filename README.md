@@ -18,7 +18,7 @@ also been interested and involved in working toward better tooling for digital g
 RadicalxChange movement. I have also been involved most intensely in the blockchain space with the Ethereum ecosystem, having 
 most recently attended ETHDenver, while also operating some small scall GPU miners.
 
-Social-Identity Verification Tweet #SIVT:https://twitter.com/KrisJ_Official/status/1153910060411772933?s=20
+Social-Identity Verification Tweet #SIVT: https://twitter.com/KrisJ_Official/status/1153910060411772933?s=20
 
 My Socials:
 
