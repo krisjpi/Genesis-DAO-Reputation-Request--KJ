@@ -11,7 +11,7 @@ as well as the possibilities for integrating into a number of existing processes
 better, more inclusive and responsive processes and systems for the future.
 
 I wrote my Master's thesis on Blockchain and its social and political implications. If you are interested in that piece of work,
-it is puclished on the Queen's University research portal here: qspace.library.queensu.ca/handle/1974/24924.
+it is published on the Queen's University research portal here: https://qspace.library.queensu.ca/handle/1974/24924
 
 I was exposed to DAOstack through the Decentralized Thriving ebook, which has some really great and inspirational pieces. I have 
 also been interested and involved in working toward better tooling for digital governance, and have been involved in the 
