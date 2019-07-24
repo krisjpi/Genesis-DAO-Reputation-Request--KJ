@@ -22,6 +22,10 @@ Social-Identity Verification Tweet #SIVT:
 
 My Socials:
 Twitter - https://twitter.com/KrisJ_Official
+/
 LinkedIn - https://www.linkedin.com/in/krisajones/
+/
 Instagram - https://www.instagram.com/krisjone5
+/
 https://github.com/krisjpi
+(duh)
